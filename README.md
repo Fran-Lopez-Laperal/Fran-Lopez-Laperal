@@ -9,10 +9,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a align="center" href = "mailto:n_fransanxenxo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
+<a align="center" href = "mailto:fransanxenxo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"   target="_blank"></a>
 <a align="center" href="https://www.linkedin.com/in/francisco-josé-lópez-laperal" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p> 
 
-<p align="center" ><img align="center" src="https://https://www.codewars.com/users/franlopezhack/badges/large" alt="codewars" /></p>
+<p align="center" ><img align="center" src="https://www.codewars.com/users/franlopezhack/badges/large" alt="codewars" /></p>
 
 ![snake gif](https://github.com/franlopezhack/franlopezhack/blob/output/github-contribution-grid-snake.svg)
 
