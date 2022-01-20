@@ -14,7 +14,6 @@
 
 <p align="center" ><img align="center" src="https://www.codewars.com/users/franlopezhack/badges/large" alt="codewars" /></p>
 
-![snake gif](https://github.com/franlopezhack/franlopezhack/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=franlopezhack&show_icons=true&locale=en&layout=compact&theme=dracula" alt="aaronlopezbarros" /></p>
 
