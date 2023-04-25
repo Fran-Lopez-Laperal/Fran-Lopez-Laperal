@@ -1,6 +1,5 @@
 <h1 align="center">Hi there 👋 I`m Fran 👨🏻‍💻  </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=1E00F7&width=720&lines=Hi%2C+I'm+Fran+López.++I+am+currently+working+as+Back-End+Developer)](https://git.io/typing-svg)
-![68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966](https://user-images.githubusercontent.com/89845641/220167426-0c5f630e-6d56-4617-9775-71c2bd025b4f.gif)
+
 
 <h1 align="center">:computer: Full-Stack Developer! 💻</h1>
 
